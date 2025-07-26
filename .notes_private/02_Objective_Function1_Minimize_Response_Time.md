@@ -1,6 +1,6 @@
 ## MSc Final Project: Optimizing City Ambulance Allocation Using Real-Time Data
 
-### Student: Trishank Saharia
+### Student: Trishank Saharia 
 
 ### Guide: Dr. Rajashree Mishra, KIIT University
 
