@@ -1,18 +1,3 @@
-## 📘 Manual Copy-Paste Notes from Chat History
-
-This file is created so you (Trishank) can copy-paste all your past ChatGPT responses from today (your visible screen chat history) directly here.
-
-You can:
-
-- Manually select & copy each chat segment
-- Paste it below in order (with timestamps or titles if helpful)
-- Ask me to clean it up, organize it, or convert to polished notes later
-
----
-
-📌 Start pasting your first chat section below this line:
-
----
 
 hey start with my project from the beginning. i am officially beginning my masters project roadmap.  also i need those notes of the answers and notes you provide how can i get them
 
